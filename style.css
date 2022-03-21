@@ -1,0 +1,5 @@
+*:focus{background-color: yellowgreen}
+
+.test:hover{
+    color: red;
+}
